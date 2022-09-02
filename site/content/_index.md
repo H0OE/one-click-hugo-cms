@@ -1,6 +1,6 @@
 ---
 title: Demo de rodrigp
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Support sustainable farming while enjoying a cupe
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
